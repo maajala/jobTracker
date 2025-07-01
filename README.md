@@ -26,14 +26,14 @@ A full-stack application built with **React** and **Node.js** that allows users 
 
 ## 📁 Project Structure
 
--jobTracker/
--├── client/ # React frontend
--│ └── src/
--│ └── App.js
--│ └── App.css
--├── server/ # Node + Express backend
--│ └── index.js
--└── README.md
+jobTracker/
+├── client/ # React frontend
+│ └── src/
+│ └── App.js
+│ └── App.css
+├── server/ # Node + Express backend
+│ └── index.js
+└── README.md
 
 ---
 
@@ -77,20 +77,20 @@ A full-stack application built with **React** and **Node.js** that allows users 
 
 2. Start the backend:
    
-      -cd server
-      -npm install
-      -node index.js
+      cd server
+      npm install
+      node index.js
    
 4. Start the frontend (Open a 2nd terminal): 
 
-      -cd client
-      -npm install
-      -npm start
+      cd client
+      npm install
+      npm start
    
 Note: The frontend runs at http://localhost:3000 and the backend at http://localhost:8080.
 ---
 
-## 📌 Future Improvements
+### 📌 Future Improvements
 
 -🔍 Search and filter jobs (partially implemented)
 -🔐 Add authentication (login/signup)
@@ -98,7 +98,7 @@ Note: The frontend runs at http://localhost:3000 and the backend at http://local
 -📱 Improve mobile responsiveness
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 -Ahmad Maajal
 -📍 Canada
 -🔗 GitHub: maajala
