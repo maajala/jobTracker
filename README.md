@@ -94,7 +94,7 @@ jobTracker/
 Note: The frontend runs at http://localhost:3000 and the backend at http://localhost:8080.
 ---
 
-### 📌 Future Improvements:
+## 📌 Future Improvements:
 
 🔍 Search and filter jobs (partially implemented)  
 🔐 Add authentication (login/signup)  
@@ -102,7 +102,7 @@ Note: The frontend runs at http://localhost:3000 and the backend at http://local
 📱 Improve mobile responsiveness  
 ---
 
-### 
+## 
 ```
 👨‍💻 Author: Ahmad Maajal 
 📍 Canada 
