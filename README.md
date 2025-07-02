@@ -24,18 +24,21 @@ A full-stack application built with **React** and **Node.js** that allows users 
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```
 jobTracker/
-├── client/ # React frontend
-│ └── src/
-│ └── App.js
-│ └── App.css
-├── server/ # Node + Express backend
-│ └── index.js
+├── client/                  # React frontend
+│   └── src/
+│       ├── App.js
+│       └── App.css
+│
+├── server/                  # Node + Express backend
+│   └── index.js
+│
 └── README.md
+```
 
----
 
 ## ⚙️ How It Works
 
