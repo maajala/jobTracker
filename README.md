@@ -74,37 +74,38 @@ jobTracker/
    ```bash
    git clone git@github.com:maajala/jobTracker.git
    cd jobTracker
+   ```
 
 2. Start the backend:
-   
+```bash
       cd server
       npm install
       node index.js
-   
+```
 4. Start the frontend (Open a 2nd terminal): 
-
+```bash
       cd client
       npm install
       npm start
-   
+  ```
 Note: The frontend runs at http://localhost:3000 and the backend at http://localhost:8080.
 ---
 
-### 📌 Future Improvements
+### 📌 Future Improvements:
 
--🔍 Search and filter jobs (partially implemented)
--🔐 Add authentication (login/signup)
--☁️ Deploy frontend + backend to Netlify/Vercel + Render
--📱 Improve mobile responsiveness
+🔍 Search and filter jobs (partially implemented)  
+🔐 Add authentication (login/signup)  
+☁️ Deploy frontend + backend to Netlify/Vercel + Render  
+📱 Improve mobile responsiveness  
 ---
 
-### 👨‍💻 Author
--Ahmad Maajal
--📍 Canada
--🔗 GitHub: maajala
--💼 Aspiring Full Stack Developer
+### 👨‍💻 Author:
+Ahmad Maajal
+ 📍 Canada
+ 🔗 GitHub: maajala
+ 💼 Aspiring Full Stack Developer
 ---
 
-## 📄 License
+## 📄 License:
 
--This project is open source and available under the MIT License.
+ This project is open source and available under the MIT License.
