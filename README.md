@@ -100,10 +100,10 @@ Note: The frontend runs at http://localhost:3000 and the backend at http://local
 ---
 
 ### 👨‍💻 Author:
-Ahmad Maajal
- 📍 Canada
- 🔗 GitHub: maajala
- 💼 Aspiring Full Stack Developer
+  Ahmad Maajal 
+📍 Canada 
+🔗 GitHub: maajala 
+💼 Aspiring Full Stack Developer 
 ---
 
 ## 📄 License:
