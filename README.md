@@ -102,13 +102,13 @@ Note: The frontend runs at http://localhost:3000 and the backend at http://local
 📱 Improve mobile responsiveness  
 ---
 
-### 👨‍💻 Author:
-  Ahmad Maajal 
+### 
+```
+👨‍💻 Author: Ahmad Maajal 
 📍 Canada 
 🔗 GitHub: maajala 
 💼 Aspiring Full Stack Developer 
----
-
+```
 ## 📄 License:
 
  This project is open source and available under the MIT License.
